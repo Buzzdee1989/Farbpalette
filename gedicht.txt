@@ -8,3 +8,5 @@ Gelb
 Magenta
 Schwarz
 Sind alles tolle Farben.
+
+Supi!
